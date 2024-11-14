@@ -1,4 +1,4 @@
-#!/Users/ochiaimisato/django/myproject/myenv/bin/python3.11
+#!/Users/ochiaimisato/django/myproject/myvenv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
